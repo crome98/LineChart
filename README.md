@@ -37,7 +37,7 @@ This is a simple line chart control
 6- The following is the example:
 
 **The .XAML file**
-
+```
 <Window x:Class="_2DChartDemo.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -49,6 +49,7 @@ This is a simple line chart control
             Title="Data" GridlinePattern="Dash"/>
     </Grid>
 </Window>
+```
 
 **The code behind it**
 
