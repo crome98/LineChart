@@ -1,0 +1,12 @@
+D:\WPF\LineChart\obj\Debug\LineChart.csproj.AssemblyReference.cache
+D:\WPF\LineChart\obj\Debug\LineChartLib.baml
+D:\WPF\LineChart\obj\Debug\LineChartLib.g.cs
+D:\WPF\LineChart\obj\Debug\LineChart_MarkupCompile.cache
+D:\WPF\LineChart\obj\Debug\LineChart.g.resources
+D:\WPF\LineChart\obj\Debug\LineChart.Properties.Resources.resources
+D:\WPF\LineChart\obj\Debug\LineChart.csproj.GenerateResource.cache
+D:\WPF\LineChart\obj\Debug\LineChart.csproj.CoreCompileInputs.cache
+D:\WPF\LineChart\bin\Debug\LineChart.dll
+D:\WPF\LineChart\bin\Debug\LineChart.pdb
+D:\WPF\LineChart\obj\Debug\LineChart.dll
+D:\WPF\LineChart\obj\Debug\LineChart.pdb
