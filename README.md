@@ -142,7 +142,8 @@ namespace _2DChartDemo
 
 ```
                                             
-![image](https://user-images.githubusercontent.com/25689764/165888435-99895f0a-850e-41e8-97a9-3a28e8a7330f.png)    
-                                            
+![image](https://user-images.githubusercontent.com/25689764/166138899-d2190783-a06c-4df8-9efb-1528da66fe29.png)
+
                                             
 Thank **Jack Xu** for his valuable knowledge.
+**Author: LE HOANG PHUC**
