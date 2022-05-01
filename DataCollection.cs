@@ -28,6 +28,7 @@ namespace LineChart
                 {
                     ds.LineSeries.Points[i] =
                     cs.NormalizePoint(ds.LineSeries.Points[i]);
+                    ds.Symbols.AddSymbol(cs.ChartCanvas, ds.LineSeries.Points[i]);
                 }
                 cs.ChartCanvas.Children.Add(ds.LineSeries);
                 j++;
